@@ -35,10 +35,10 @@ A creative system for generating customised travel advertisements using real-tim
 
 ## Mockup  
 ### splash screen  
-![Travel Ad Demo](/Users/xiongyixuan/Desktop/ai works/personalised-travel-ad-generation-system/splash screen.gif)
+![](splash screen.gif)
 
 ### mobile version. 
-[](https://github.com/user-attachments/assets/c00106b2-df8a-4b0f-9d62-50e25fcb406c)
+<img width="718" alt="Image" src="https://github.com/user-attachments/assets/5cf58cdb-35df-4c61-a0a7-40c3b38bcb8d" />
 
 ### pc version  
-[](https://github.com/user-attachments/assets/56c6a4d5-189a-497a-97b7-ee44bdb741b7)
+<img width="557" alt="Image" src="https://github.com/user-attachments/assets/c2985378-d1e0-47f1-abc6-7edd22e80b8c" />
