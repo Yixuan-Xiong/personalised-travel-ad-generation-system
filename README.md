@@ -35,10 +35,10 @@ A creative system for generating customised travel advertisements using real-tim
 
 ## Mockup  
 ### splash screen  
-![](splash_screen.gif)
+[View splash screen](splash_screen.gif)
 
 ### mobile version. 
-<img src="mobile_version.png" width="300" />
+[View mobile version](mobile_version.png)
 
 ### pc version  
-<img src="pc_version.png" width="400" />
+[View desktop version](pc_version.png)
