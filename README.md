@@ -12,15 +12,15 @@ A creative system for generating customised travel advertisements using real-tim
    Keywords are mapped to label categories using LLaMA3 + rules.  
    Conflicts (e.g. high budget search vs. medium history) are resolved by priority.  
 
-3. **Prompt Construction**. 
+3. **Prompt Construction**  
    Tags are converted into structured natural language descriptions.  
    Prompts include visual scene layers (foreground, midground, background).  
 
-4. **Image & Slogan Generation**. 
+4. **Image & Slogan Generation**  
    Image generated via Stable Diffusion + Ghibli-style LoRA.  
    Text slogan created via LLaMA3 using user tags + image context.  
 
-5. **Layout & Animation**. 
+5. **Layout & Animation**  
    DETR detects objects in the image.  
    Text is placed to avoid overlap.  
    Final ad is exported as an animated `.gif`.  
